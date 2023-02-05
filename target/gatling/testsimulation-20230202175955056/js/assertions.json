@@ -1,0 +1,10 @@
+{
+  "simulation": "perf.TestSimulation",
+  "simulationId": "testsimulation",
+  "start": 1675360795056,
+  "description": "",
+  "scenarios": ["mainScenario"],
+  "assertions": [
+
+  ]
+}
